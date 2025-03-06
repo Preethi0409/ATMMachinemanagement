@@ -9,3 +9,5 @@ This project allows the users to login through password and deposit amount, with
 
 # Modules of Project:
 • Account- This Displays the login menu which displays Login, Register, Exit. • Login- This allows the user to login through username and password. • Create- This allows user to create new account. • Menu- This displays the main menu of ATM which displays Withdraw, Deposit, Balance enquiry, Reset password, Exit. • Deposit- This allows user to deposit amount in the account. • Withdraw- This allows user to withdraw amount from account Balance. • Balance- This allows user to view at the balance of the account. • Password- This allows user to reset the password. • Exit- This quits the program.
+
+
